@@ -6,4 +6,6 @@
 
 ### [s24magd150lab05_Dumonceaux](https://github.com/Boyloytt/MAGD-Processing-Repository/blob/gh-pages/s24magd150lab05_Dumonceaux.zip)
 
-### [s24magd150lab06_Dumonceaux]()
+### [s24magd150lab06_Dumonceaux](https://github.com/Boyloytt/MAGD-Processing-Repository/blob/gh-pages/s24magd150lab06_Dumonceaux.zip)
+
+### [
